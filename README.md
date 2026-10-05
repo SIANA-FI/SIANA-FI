@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://siana-fi.github.io" title="Ouvrir mon portfolio">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E160C,55:050A30,100:050A30&height=190&section=header&text=Mahamat%20Congo-Sienne&fontSize=44&fontColor=E8D9C4&fontAlignY=38&desc=Comptabilit%C3%A9%20%C2%B7%20Finance%20%C2%B7%20Data%20%C2%B7%20IA%20%E2%80%94%20cliquez%20pour%20ouvrir%20le%20portfolio&descSize=15&descAlignY=60&descColor=C9A46A" alt="Mahamat Congo-Sienne — cliquez pour ouvrir le portfolio" />
+    <img src="banner.svg" width="100%" alt="Mahamat Congo-Sienne — cliquez pour ouvrir le portfolio" />
   </a>
 </p>
 
