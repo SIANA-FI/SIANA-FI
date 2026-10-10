@@ -89,7 +89,7 @@ Et la **facture électronique** (généralisation en septembre 2027) ? Facturati
 |:--|:--|:--|
 | **[Corporate Intelligence Lab](https://github.com/SIANA-FI/Corporate-Intelligence-Lab)** | Analyse financière automatisée de sociétés (démos : Bolloré, LVMH, Air Liquide) : KPI, scoring, bénéficiaires effectifs. | Je sais lire des comptes **et** les faire parler. Utile pour l'analyse et la LCB-FT. |
 | **[RatioMax](https://github.com/SIANA-FI/ratiomax-app)** | Application de révision pour étudiants en DCG, basée sur la méthode J. | J'aime apprendre, et j'aime aider les autres à apprendre. |
-| **[BAKLYN](https://github.com/SIANA-FI/baklyn.2.0)** | Outil de gestion pour indépendants : facturation, trésorerie, provisions, relances. | Je comprends ce que vivent vos clients TPE au quotidien. |
+| **[BAKLYN](https://github.com/SIANA-FI/baklyn.2.0)** | SaaS **en ligne sur [baklyn.fr](https://baklyn.fr)** (hébergé chez Clever Cloud) pour micro-entrepreneurs : factures, provisions Urssaf et impôts, alertes de seuils de TVA. Bientôt connecté à une Plateforme Agréée pour la facture électronique. | Je comprends ce que vivent vos clients TPE, et je prépare déjà la réforme de la facture électronique. |
 
 <p align="center">
   <a href="https://siana-fi.github.io#projets"><img src="https://img.shields.io/badge/Voir%20les%20projets%20en%20d%C3%A9tail-E8D9C4?style=for-the-badge&labelColor=3E160C&color=E8D9C4&logoColor=050A30" alt="Voir les projets" /></a>
